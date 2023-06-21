@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dmitry/mlflow-server/mlruns/0/5e3ccbd72b07452fae5560af21800642/artifacts
+end_time: 1687334953536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e3ccbd72b07452fae5560af21800642
+run_name: big-snake-607
+run_uuid: 5e3ccbd72b07452fae5560af21800642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687334953302
+status: 3
+tags: []
+user_id: dmitry

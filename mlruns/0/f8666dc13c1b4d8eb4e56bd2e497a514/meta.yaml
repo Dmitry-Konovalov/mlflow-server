@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dmitry/mlflow-server/mlruns/0/f8666dc13c1b4d8eb4e56bd2e497a514/artifacts
+end_time: 1687334695297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8666dc13c1b4d8eb4e56bd2e497a514
+run_name: traveling-boar-978
+run_uuid: f8666dc13c1b4d8eb4e56bd2e497a514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687334695063
+status: 4
+tags: []
+user_id: dmitry

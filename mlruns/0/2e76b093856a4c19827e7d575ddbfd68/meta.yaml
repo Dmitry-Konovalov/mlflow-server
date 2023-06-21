@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dmitry/mlflow-server/mlruns/0/2e76b093856a4c19827e7d575ddbfd68/artifacts
+end_time: 1687334669969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e76b093856a4c19827e7d575ddbfd68
+run_name: salty-kite-333
+run_uuid: 2e76b093856a4c19827e7d575ddbfd68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687334669727
+status: 4
+tags: []
+user_id: dmitry

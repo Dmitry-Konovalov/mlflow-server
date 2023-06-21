@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dmitry/mlflow-server/mlruns/0/86cfbf55a87a46f2b2cba04bb53e4646/artifacts
+end_time: 1687334734313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86cfbf55a87a46f2b2cba04bb53e4646
+run_name: delightful-hare-268
+run_uuid: 86cfbf55a87a46f2b2cba04bb53e4646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687334734075
+status: 3
+tags: []
+user_id: dmitry

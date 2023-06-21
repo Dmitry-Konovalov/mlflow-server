@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dmitry/mlflow-server/mlruns/0/b5138612cb1d41889a29c459b0a96766/artifacts
+end_time: 1687334283094
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5138612cb1d41889a29c459b0a96766
+run_name: abundant-cub-964
+run_uuid: b5138612cb1d41889a29c459b0a96766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687334282863
+status: 3
+tags: []
+user_id: dmitry
